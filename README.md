@@ -21,26 +21,20 @@ A modern and responsive landing page for Nike, built using **React** and **Tailw
 
 To run this project locally, follow these steps:
 
-1. **Clone the Repository:**
 
-```bash
-git clone https://github.com/your-username/nike-landing-page.git
-cd nike-landing-page
-```
-
-2. **Install Dependencies:**
+1. **Install Dependencies:**
 
 ```bash
 npm install
 ```
 
-3. **Run the Development Server:**
+2. **Run the Development Server:**
 
 ```bash
 npm run dev
 ```
 
-4. **Open in Browser:**
+3. **Open in Browser:**
 
 Visit [http://localhost:3000](http://localhost:3000) to view the landing page.
 
