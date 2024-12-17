@@ -67,4 +67,4 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ---
 
-**Made with ❤️ by [Your Name](https://github.com/your-username)**
+**Made with ❤️ by [BadrDev](https://github.com/your-username)**
